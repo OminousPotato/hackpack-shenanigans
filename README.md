@@ -1,6 +1,6 @@
 # Welcome to My HackPack Portfolio!
 
-Hey there! I'm [Your Name], a [Year] student at **North Carolina State University**. I've been an enthusiastic member of **HackPack** for [Time Period].
+Hey there! I'm Brian Yngve, a third year student at **North Carolina State University**. I've been an enthusiastic member of **HackPack** as of the Spring 2024 repo.
 
 ## Portfolio Overview
 
@@ -13,6 +13,7 @@ This GitHub repository serves as my portfolio, showcasing my journey through the
 
 - [CTF Writeups](#ctf-writeups)
 - [Weekly Journals](#weekly-journals)
+- Anything else I think of
 
 ## CTF Writeups
 
